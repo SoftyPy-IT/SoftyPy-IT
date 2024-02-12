@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, Welcome to SoftyPy</h1>
-<h3 align="center">A Passionate Software Company from Bangladesh.</h3>
+<h1 align="center">Hi Welcome to SoftyPy</h1>
+<h2 align="center">A Passionate Software Company from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=softypy-it&label=Profile%20views&color=0e75b6&style=flat" alt="softypy-it" /> </p>
+<p align="left"> <img src="https://github.com/SoftyPy-IT/github-banner-image/blob/main/WhatsApp%20Image%202024-02-06%20at%2012.19.06%20AM.jpeg?raw=true" alt="softypy-it" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softypy-it" alt="softypy-it" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/softypy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="softypy" height="30" width="40" /></a>
 <a href="https://fb.com/softypy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="softypy" height="30" width="40" /></a>
