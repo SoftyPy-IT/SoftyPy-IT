@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to SoftyPy</h1>
 <h2 align="center">A Passionate Software Company from Bangladesh.</h3>
 
-<p align="left"> <img src="https://github.com/SoftyPy-IT/github-banner-image/blob/main/WhatsApp%20Image%202024-02-06%20at%2012.19.06%20AM.jpeg?raw=true" alt="softypy-it" /> </p>
+<p align="left"> <img src="https://ibb.co/gj5LsHk" alt="softypy-it" /> </p>
 
 
 <h3 align="left">Connect With Us</h3>
